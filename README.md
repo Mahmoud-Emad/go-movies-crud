@@ -2,11 +2,11 @@
 Example microservice written in Go-Lang.
 
 #### Table of Contents  
-* [Endpoints](#endpoints)
-* [Tests](#tests)
-* [Libraries](#libraries)
-    *  [http](#http)  
-    *  [gorilla](#doobie)
+* Endpoints
+* Tests
+* Libraries
+    * http  
+    * gorilla
 
 ## Endpoints
 The rest endpoints listed below:
