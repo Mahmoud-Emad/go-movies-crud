@@ -1,14 +1,17 @@
 # Movie system
+
 Example microservice written in Go-Lang.
 
-#### Table of Contents  
+### Table of Contents  
+
 * Endpoints
 * Tests
 * Libraries
-    * http  
-    * gorilla
+  * http  
+  * gorilla
 
 ## Endpoints
+
 The rest endpoints listed below:
 
 Method | Url          | Description
@@ -44,9 +47,10 @@ For testing purposes I use ScalaTest. Unit tests are using mocks, while integrat
 To run unit tests do `sbt test`. To run integration tests `sbt it:test`. -->
 
 ## Possible improvements
-- [ ] Add Swagger integration for API documenting 
-- [ ] Add SQL syntax checks
-- [ ] Add continuous integration
-- [ ] Dockerize the application
-- [ ] Add logging mechanism
-- [ ] Add property based testing
+
+- [ ] Add Swagger integration for API documenting
+* [ ] Add SQL syntax checks
+* [ ] Add continuous integration
+* [ ] Dockerize the application
+* [ ] Add logging mechanism
+* [ ] Add property based testing
